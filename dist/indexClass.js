@@ -1,19 +1,15 @@
 class Invoice {
-    constructor(client, details, amount) {
-        this.client = client;
-        this.details = details;
-        this.amount = amount;
-    }
     format() {
         return `${this.client} owes ￥${this.amount}k for ${this.details}`;
     }
 }
-const invOne = new Invoice('Claus', 'working for the Chanjet', 25);
-const invTwo = new Invoice('Summer', 'working for the 58', 16);
+const invOne = new Invoice();
+const invTwo = new Invoice();
 console.log(invOne);
 console.log(invTwo);
-console.log(invOne.client);
 invOne.client = `2092's Me`;
+invOne.details = `working for the Chanjet`;
+invOne.amount = 30;
 console.log(invOne.format());
 console.log(invTwo.format());
 let invoices = [];
