@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Invoice = void 0;
 class Invoice {
     constructor(client, details, amount) {
         this.client = client;
@@ -12,9 +13,6 @@ class Invoice {
     format() {
         return `${this.client} owes ￥${this.amount}k for ${this.details}`;
     }
-    a() {
-        return this.client = '1';
-    }
 }
-exports.default = Invoice;
+exports.Invoice = Invoice;
 //# sourceMappingURL=Invoice.js.map

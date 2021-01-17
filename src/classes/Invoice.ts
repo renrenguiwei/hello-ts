@@ -4,8 +4,9 @@
  * 2. private 在类内部玩
  * 3. readonly 内、外都只能读取，不可修改
  */
+import {HasFormatter} from "../interfaces/HasFormatter";
 
-export default class Invoice {
+export class Invoice implements HasFormatter{
     // private client: string
     // readonly details: string
     // public amount: number
@@ -22,9 +23,5 @@ export default class Invoice {
 
     format() {
         return `${this.client} owes ￥${this.amount}k for ${this.details}`
-    }
-
-    a() {
-        return this.client = '1'
     }
 }
