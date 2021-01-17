@@ -1,78 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a90dc478-5ae3-45d1-8209-e8f580f2e411" name="Default Changelist" comment="" />
+    <list default="true" id="3550e55b-df54-458c-ae5a-27eb4b7a3259" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1icEacsN5dNSwBWhJHumkzQH1c5" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n8uVVrEOvm42n3z7cZoJUpgAip" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ts.external.directory.path" value="/usr/local/lib/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="greeter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/greeter.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.greeter.js" />
-      </list>
-    </recent_temporary>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/root" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a90dc478-5ae3-45d1-8209-e8f580f2e411" name="Default Changelist" comment="" />
-      <created>1602198546236</created>
+      <changelist id="3550e55b-df54-458c-ae5a-27eb4b7a3259" name="Default Changelist" comment="" />
+      <created>1610784063044</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602198546236</updated>
-      <workItem from="1602198547969" duration="763000" />
-      <workItem from="1602292734326" duration="578000" />
-      <workItem from="1602308107173" duration="3438000" />
+      <updated>1610784063044</updated>
+      <workItem from="1610784064093" duration="945000" />
+      <workItem from="1610785549185" duration="7554000" />
+      <workItem from="1610803041353" duration="5115000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/greeter.js" />
-      </list>
-    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1083" height="223" key="GridCell.Tab.0.bottom" timestamp="1602315903198">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="1012" y="301" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1610803443088">
+      <screen x="0" y="25" width="1735" height="1095" />
     </state>
-    <state width="1083" height="223" key="GridCell.Tab.0.bottom/0.23.1440.877/-259.-1057.1920.1057@0.23.1440.877" timestamp="1602315903198" />
-    <state width="1083" height="223" key="GridCell.Tab.0.center" timestamp="1602315903197">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="1012" y="301" key="#com.intellij.ide.macro.MacrosDialog/0.25.1735.1095@0.25.1735.1095" timestamp="1610803443088" />
+    <state x="750" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610798731005">
+      <screen x="0" y="25" width="1735" height="1095" />
     </state>
-    <state width="1083" height="223" key="GridCell.Tab.0.center/0.23.1440.877/-259.-1057.1920.1057@0.23.1440.877" timestamp="1602315903197" />
-    <state width="1083" height="223" key="GridCell.Tab.0.left" timestamp="1602315903196">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="750" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1735.1095@0.25.1735.1095" timestamp="1610798731005" />
+    <state x="902" y="210" width="753" height="633" key="EditFileWatcherDialog" timestamp="1610803799903">
+      <screen x="0" y="25" width="1735" height="1095" />
     </state>
-    <state width="1083" height="223" key="GridCell.Tab.0.left/0.23.1440.877/-259.-1057.1920.1057@0.23.1440.877" timestamp="1602315903196" />
-    <state width="1083" height="223" key="GridCell.Tab.0.right" timestamp="1602315903197">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="902" y="210" width="753" height="633" key="EditFileWatcherDialog/0.25.1735.1095@0.25.1735.1095" timestamp="1610803799903" />
+    <state x="20" y="125" key="SettingsEditor" timestamp="1610807741708">
+      <screen x="0" y="25" width="1735" height="1095" />
     </state>
-    <state width="1083" height="223" key="GridCell.Tab.0.right/0.23.1440.877/-259.-1057.1920.1057@0.23.1440.877" timestamp="1602315903197" />
-    <state x="217" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1602308415178">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="20" y="125" key="SettingsEditor/0.25.1735.1095@0.25.1735.1095" timestamp="1610807741708" />
+    <state x="1040" y="391" width="670" height="676" key="search.everywhere.popup" timestamp="1610804963706">
+      <screen x="0" y="25" width="1735" height="1095" />
     </state>
-    <state x="217" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-259.-1057.1920.1057@0.23.1440.877" timestamp="1602308415178" />
+    <state x="1040" y="391" width="670" height="676" key="search.everywhere.popup/0.25.1735.1095@0.25.1735.1095" timestamp="1610804963706" />
   </component>
 </project>
