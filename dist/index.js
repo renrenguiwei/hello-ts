@@ -1,21 +1,17 @@
-let greet;
-greet = (name, age) => {
-    console.log(`${name} say my age is ${age}`);
-    return 1;
+let saySomething = (obj) => {
+    return Object.assign({}, obj);
 };
-greet('claus', 12);
-let calc;
-calc = (numOne, numTwo, action) => {
-    if (action === 'add') {
-        return numOne + numTwo;
-    }
-    else {
-        return numOne - numTwo;
+let sayOne = saySomething({ love: 'you', eat: 'soul' });
+const girlFriendLetter = {
+    title: 'I love you',
+    content: 'forever',
+    others: {
+        msg: 'wait for you night'
     }
 };
-console.log(calc(1, 2, 'add'));
-let logDetails;
-logDetails = (obj) => {
-    console.log(`${obj.name} ${obj.age}`);
+const ex_girlFriendeLetter = {
+    title: 'I hate you',
+    content: 'ever',
+    others: 'kick you ass'
 };
 //# sourceMappingURL=index.js.map
