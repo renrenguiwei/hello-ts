@@ -13,6 +13,11 @@ const invTwo = new Invoice('Summer', 'working for the 58', 16);
 console.log(invOne);
 console.log(invTwo);
 console.log(invOne.client);
+invOne.client = `2092's Me`;
 console.log(invOne.format());
 console.log(invTwo.format());
+let invoices = [];
+invoices.push(invOne);
+invoices.push(invTwo);
+console.log(invoices);
 //# sourceMappingURL=indexClass.js.map
