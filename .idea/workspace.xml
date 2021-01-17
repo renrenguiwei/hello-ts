@@ -54,7 +54,7 @@
       <workItem from="1610784064093" duration="945000" />
       <workItem from="1610785549185" duration="7554000" />
       <workItem from="1610803041353" duration="6108000" />
-      <workItem from="1610851548848" duration="254000" />
+      <workItem from="1610851548848" duration="1333000" />
     </task>
     <task id="LOCAL-00001" summary="class类类型的利用">
       <created>1610851577189</created>
@@ -63,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610851577189</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="class类类型的利用，省去constructor初始化">
+      <created>1610851864323</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610851864323</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,7 +78,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="class类类型的利用" />
-    <option name="LAST_COMMIT_MESSAGE" value="class类类型的利用" />
+    <MESSAGE value="class类类型的利用，省去constructor初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="class类类型的利用，省去constructor初始化" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1012" y="301" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1610803443088">
@@ -82,10 +90,10 @@
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
     <state x="750" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1735.1095@0.25.1735.1095" timestamp="1610798731005" />
-    <state x="871" y="125" key="CommitChangelistDialog2" timestamp="1610851576965">
+    <state x="871" y="125" key="CommitChangelistDialog2" timestamp="1610851864212">
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
-    <state x="871" y="125" key="CommitChangelistDialog2/0.25.1735.1095@0.25.1735.1095" timestamp="1610851576965" />
+    <state x="871" y="125" key="CommitChangelistDialog2/0.25.1735.1095@0.25.1735.1095" timestamp="1610851864212" />
     <state x="902" y="210" width="753" height="633" key="EditFileWatcherDialog" timestamp="1610803799903">
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
@@ -94,9 +102,9 @@
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
     <state x="20" y="125" key="SettingsEditor/0.25.1735.1095@0.25.1735.1095" timestamp="1610807741708" />
-    <state x="1040" y="391" width="670" height="676" key="search.everywhere.popup" timestamp="1610851336187">
+    <state x="1040" y="391" width="670" height="676" key="search.everywhere.popup" timestamp="1610852210624">
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
-    <state x="1040" y="391" width="670" height="676" key="search.everywhere.popup/0.25.1735.1095@0.25.1735.1095" timestamp="1610851336187" />
+    <state x="1040" y="391" width="670" height="676" key="search.everywhere.popup/0.25.1735.1095@0.25.1735.1095" timestamp="1610852210624" />
   </component>
 </project>
