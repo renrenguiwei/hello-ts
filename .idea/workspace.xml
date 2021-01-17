@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3550e55b-df54-458c-ae5a-27eb4b7a3259" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/classes/Invoice.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/classes/Invoice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/classes/Invoice.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/classes/Invoice.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/indexClass.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/indexClass.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/indexClass.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/indexClass.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/Invoice.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/Invoice.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/indexClass.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/indexClass.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +58,7 @@
       <workItem from="1610784064093" duration="945000" />
       <workItem from="1610785549185" duration="7554000" />
       <workItem from="1610803041353" duration="6108000" />
-      <workItem from="1610851548848" duration="4993000" />
+      <workItem from="1610851548848" duration="6427000" />
     </task>
     <task id="LOCAL-00001" summary="class类类型的利用">
       <created>1610851577189</created>
@@ -105,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610855464117</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="interface与class利用implements连接">
+      <created>1610857643518</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610857643518</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +121,8 @@
     <MESSAGE value="class类类型的利用," />
     <MESSAGE value="class类类型的利用,&#10;1. class模块化" />
     <MESSAGE value="interface使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="interface使用" />
+    <MESSAGE value="interface与class利用implements连接" />
+    <option name="LAST_COMMIT_MESSAGE" value="interface与class利用implements连接" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1012" y="301" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1610803443088">
@@ -128,10 +133,10 @@
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
     <state x="750" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1735.1095@0.25.1735.1095" timestamp="1610798731005" />
-    <state x="871" y="125" key="CommitChangelistDialog2" timestamp="1610855464012">
+    <state x="871" y="125" key="CommitChangelistDialog2" timestamp="1610857643435">
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
-    <state x="871" y="125" key="CommitChangelistDialog2/0.25.1735.1095@0.25.1735.1095" timestamp="1610855464012" />
+    <state x="871" y="125" key="CommitChangelistDialog2/0.25.1735.1095@0.25.1735.1095" timestamp="1610857643435" />
     <state x="902" y="210" width="753" height="633" key="EditFileWatcherDialog" timestamp="1610803799903">
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
@@ -144,17 +149,17 @@
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
     <state x="925" y="318" key="MultipleFileMergeDialog/0.25.1735.1095@0.25.1735.1095" timestamp="1610853944631" />
-    <state x="20" y="125" key="SettingsEditor" timestamp="1610807741708">
+    <state x="20" y="125" key="SettingsEditor" timestamp="1610858607219">
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
-    <state x="20" y="125" key="SettingsEditor/0.25.1735.1095@0.25.1735.1095" timestamp="1610807741708" />
-    <state x="887" y="289" key="Vcs.Push.Dialog.v2" timestamp="1610855465749">
+    <state x="20" y="125" key="SettingsEditor/0.25.1735.1095@0.25.1735.1095" timestamp="1610858607219" />
+    <state x="887" y="289" key="Vcs.Push.Dialog.v2" timestamp="1610857644736">
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
-    <state x="887" y="289" key="Vcs.Push.Dialog.v2/0.25.1735.1095@0.25.1735.1095" timestamp="1610855465749" />
-    <state x="1040" y="391" width="670" height="676" key="search.everywhere.popup" timestamp="1610852210624">
+    <state x="887" y="289" key="Vcs.Push.Dialog.v2/0.25.1735.1095@0.25.1735.1095" timestamp="1610857644736" />
+    <state x="1040" y="391" width="670" height="676" key="search.everywhere.popup" timestamp="1610858586632">
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
-    <state x="1040" y="391" width="670" height="676" key="search.everywhere.popup/0.25.1735.1095@0.25.1735.1095" timestamp="1610852210624" />
+    <state x="1040" y="391" width="670" height="676" key="search.everywhere.popup/0.25.1735.1095@0.25.1735.1095" timestamp="1610858586632" />
   </component>
 </project>
