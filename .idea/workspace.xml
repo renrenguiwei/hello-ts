@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3550e55b-df54-458c-ae5a-27eb4b7a3259" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/indexClass.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/indexClass.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/indexClass.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/indexClass.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/indexClass.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/indexClass.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +75,7 @@
       <workItem from="1610784064093" duration="945000" />
       <workItem from="1610785549185" duration="7554000" />
       <workItem from="1610803041353" duration="6108000" />
-      <workItem from="1610851548848" duration="6427000" />
+      <workItem from="1610851548848" duration="7269000" />
     </task>
     <task id="LOCAL-00001" summary="class类类型的利用">
       <created>1610851577189</created>
@@ -109,11 +126,29 @@
       <option name="project" value="LOCAL" />
       <updated>1610857643518</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="非空断言，欺骗编辑器">
+      <created>1610859166776</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610859166776</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="class类类型的利用，省去constructor初始化" />
@@ -122,7 +157,8 @@
     <MESSAGE value="class类类型的利用,&#10;1. class模块化" />
     <MESSAGE value="interface使用" />
     <MESSAGE value="interface与class利用implements连接" />
-    <option name="LAST_COMMIT_MESSAGE" value="interface与class利用implements连接" />
+    <MESSAGE value="非空断言，欺骗编辑器" />
+    <option name="LAST_COMMIT_MESSAGE" value="非空断言，欺骗编辑器" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1012" y="301" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1610803443088">
@@ -133,10 +169,10 @@
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
     <state x="750" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1735.1095@0.25.1735.1095" timestamp="1610798731005" />
-    <state x="871" y="125" key="CommitChangelistDialog2" timestamp="1610857643435">
+    <state x="871" y="125" key="CommitChangelistDialog2" timestamp="1610859166682">
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
-    <state x="871" y="125" key="CommitChangelistDialog2/0.25.1735.1095@0.25.1735.1095" timestamp="1610857643435" />
+    <state x="871" y="125" key="CommitChangelistDialog2/0.25.1735.1095@0.25.1735.1095" timestamp="1610859166682" />
     <state x="902" y="210" width="753" height="633" key="EditFileWatcherDialog" timestamp="1610803799903">
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
@@ -153,10 +189,10 @@
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
     <state x="20" y="125" key="SettingsEditor/0.25.1735.1095@0.25.1735.1095" timestamp="1610858607219" />
-    <state x="887" y="289" key="Vcs.Push.Dialog.v2" timestamp="1610857644736">
+    <state x="887" y="289" key="Vcs.Push.Dialog.v2" timestamp="1610859168195">
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
-    <state x="887" y="289" key="Vcs.Push.Dialog.v2/0.25.1735.1095@0.25.1735.1095" timestamp="1610857644736" />
+    <state x="887" y="289" key="Vcs.Push.Dialog.v2/0.25.1735.1095@0.25.1735.1095" timestamp="1610859168195" />
     <state x="1040" y="391" width="670" height="676" key="search.everywhere.popup" timestamp="1610858586632">
       <screen x="0" y="25" width="1735" height="1095" />
     </state>
